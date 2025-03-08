@@ -11,7 +11,7 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 # Dashboard Insights & Screenshots
 - **Sales Analysis**-
 	![sales_analysis](https://github.com/user-attachments/assets/979c64fa-c1ec-4c91-9f1a-acf53cce405a)
-  - Added **Dropdown slicer** to select the **order types and payment method.**
+  - Added **Dropdown slicer** to select the **order types(dine-in, takeaway, delivery) and payment method(cash, card, online).**
   - **Card Titles** showing the **Total Orders, Sales, and Profits.**
   - Analyses **monthly sales trends** for the year 2023 & 2024 illustrated using the **Line graphs.**
   - **Category wise Sales** depicted in the **Piechart**
@@ -24,6 +24,17 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
   - Sales based on Category presented in **Piechart**
   - Displays the **Least selling** menu item
   - Helps in taking decisions whether to continue, improve and discontinue the menu items.
+ 
+- **Customer's Insights**
+  ![customers_insights](https://github.com/user-attachments/assets/76951cb6-f72a-48a7-8233-7a49ff1e10f9)
+  - **Card Titles** displaying the **Total Customers, Average Order Value and Average Life-time spending** of the restaurant.
+  - Helps in identifying the **top customers** of the restaurant and their contributions to the restaurant.
+  - **Ability to analyse their customers based on the order types.**
+  - Helpful for providing recognisition and adding value for thier top and regular customers.
+
+- Overall the dashboard helps in analysing the performance of the restaurant and taking necessary actions for thier future sales, value thier customers and improvements on menu items.
+    
+
  
    
     
