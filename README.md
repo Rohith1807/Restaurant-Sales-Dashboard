@@ -33,6 +33,18 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
   - Helpful for providing recognisition and adding value for thier top and regular customers.
 
 - Overall the dashboard helps in analysing the performance of the restaurant and taking necessary actions for thier future sales, value thier customers and improvements on menu items.
+
+# Technologies used
+- **PowerBI**- Dashboard creation
+- **Python(Pandas,Numpy)**- Data cleaning
+- **CSV**- Dataset format
+
+# How to use this project
+1 Clone this repository
+  git clone https://github.com/Rohith1807/Restaurant-Sales-Dashboard.git
+  cd Restaurant-Sales-Dashboard
+2 
+
     
 
  
