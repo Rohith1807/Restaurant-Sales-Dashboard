@@ -11,6 +11,6 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 # Dashboard Insights & Screenshots
 -	**Sales Analysis**-
 	![sales_analysis](https://github.com/user-attachments/assets/979c64fa-c1ec-4c91-9f1a-acf53cce405a)
-  -- Analyses monthly sales trends based on **Order types, Payment methods for the year 2023 & 2024**
- 	-- **Profit analysis** and overall sales based on categories.
- 	-- Useful for knowing the **overall performance of the restaurant.** 
+  - Analyses monthly sales trends based on **Order types, Payment methods for the year 2023 & 2024**
+  - **Profit analysis** and overall sales based on categories.
+  - Useful for knowing the **overall performance of the restaurant.** 
