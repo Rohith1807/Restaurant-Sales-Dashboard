@@ -50,9 +50,9 @@ cd Restaurant-Sales-Dashboard
 ```
 2️⃣ Explore the screenshots in the `screenshots/` folder to view the dashboard.
 
-3️⃣ Access the raw and cleaned data in the data/ folder.
+3️⃣ Access the raw and cleaned data in the `data/` folder.
 
-4️⃣ Run the data cleaning script in the scripts/ folder to understand the data preparation process.
+4️⃣ Run the data cleaning script in the `scripts/` folder to understand the data preparation process.
 
  
    
