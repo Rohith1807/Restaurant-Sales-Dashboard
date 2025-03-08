@@ -8,3 +8,6 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 - **Source**- Mockaroo-generated data
 - **Cleaning**- Python(Pandas,Numpy)
 - **Data Files**- <a href=https://github.com/Rohith1807/Restaurant-Sales-Dashboard/tree/main/data>Data Folder</a>
+# Dashboard Insights & Screenshots
+-	**Sales Analysis**- 
+https://github.com/Rohith1807/Restaurant-Sales-Dashboard/blob/main/screenshots/sales_analysis.png
