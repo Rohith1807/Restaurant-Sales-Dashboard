@@ -39,20 +39,19 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 - **Python(Pandas,Numpy)**- Data cleaning, data manipulation and data analysis
 - **CSV**- Dataset format
 
-### **🚀 How to Use This Project?**  
+# **🚀 How to Use This Project?**  
 
-#### **1️⃣ Clone the Repository**  
+## **1️⃣ Clone the Repository**  
 First, download the project files to your local machine:  
 ```bash
 git clone https://github.com/Rohith1807/Restaurant-Sales-Dashboard.git
 cd Restaurant-Sales-Dashboard
 ```
+## 2️⃣ Explore the screenshots in the screenshots/ folder to view the dashboard.
 
-### **2️⃣ Explore the screenshots in the screenshots/ folder to view the dashboard.**
+## 3️⃣ Access the raw and cleaned data in the data/ folder.
 
-### **3️⃣ Access the raw and cleaned data in the data/ folder.**
-
-### **4️⃣ Run the data cleaning script in the scripts/ folder to understand the data preparation process.**
+## 4️⃣ Run the data cleaning script in the scripts/ folder to understand the data preparation process.
 
  
    
