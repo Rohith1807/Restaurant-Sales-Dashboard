@@ -86,7 +86,9 @@ pip install pandas numpy
 ```
 - Run the Python script:
 ```bash
-python scripts/
+python scripts/clean_data.py
+python scripts/total_price
+python scripts/merged_tables
 ```
     
 
