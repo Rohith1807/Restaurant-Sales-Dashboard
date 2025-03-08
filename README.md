@@ -39,14 +39,38 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 - **Python(Pandas,Numpy)**- Data cleaning
 - **CSV**- Dataset format
 
-# How to use this project
-1 Clone this repository:
-'''
+In a **README.md** file on GitHub, you can format code blocks using triple backticks (```) for a clean and structured look. Here’s how you can format the **"How to Use This Project"** section with proper code blocks and styling:  
+
+---
+
+### **🚀 How to Use This Project?**  
+
+#### **1️⃣ Clone the Repository**  
+First, download the project files to your local machine:  
+```bash
 git clone https://github.com/Rohith1807/Restaurant-Sales-Dashboard.git
 cd Restaurant-Sales-Dashboard
-'''
+```
 
-    
+#### **2️⃣ Install Required Dependencies**  
+Before running the script, install necessary Python libraries:  
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+#### **3️⃣ Run the Data Cleaning Script**  
+Execute the Python script to clean the raw dataset:  
+```bash
+python scripts/data_cleaning.py
+```
+This will generate a **cleaned CSV file** ready for use in Power BI.  
+
+#### **4️⃣ Import Cleaned Data into Power BI**  
+- Open **Power BI Desktop**.  
+- Click **"Get Data" → "Text/CSV"** and select the cleaned dataset.  
+- Perform any additional transformations using **Power Query**.  
+- Use Power BI visuals to create **charts, KPIs, and reports**.  
+
 
  
    
