@@ -9,5 +9,5 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 - **Cleaning**- Python(Pandas,Numpy)
 - **Data Files**- <a href=https://github.com/Rohith1807/Restaurant-Sales-Dashboard/tree/main/data>Data Folder</a>
 # Dashboard Insights & Screenshots
--	**Sales Analysis**- 
-https://github.com/Rohith1807/Restaurant-Sales-Dashboard/blob/main/screenshots/sales_analysis.png
+-	**Sales Analysis**-
+-	![sales_analysis](https://github.com/user-attachments/assets/979c64fa-c1ec-4c91-9f1a-acf53cce405a)
