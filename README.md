@@ -15,4 +15,16 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
   - **Card Titles** showing the **Total Orders, Sales, and Profits.**
   - Analyses **monthly sales trends** for the year 2023 & 2024 illustrated using the **Line graphs.**
   - **Category wise Sales** depicted in the **Piechart**
-  - Useful in knowing the **overall performance of the restaurant.** 
+  - Useful in knowing the **overall performance of the restaurant.**
+
+- **Menu Performance**
+   ![menu_performance](https://github.com/user-attachments/assets/b4bab89f-65c5-44bc-83bd-84746f254c3b)
+  - Shows the **Top 5 selling menu items** in the **Stacked bar chart** with its total sale value.
+  - **Profit Margins** of the menu items.
+  - Sales based on Category presented in **Piechart**
+  - Displays the **Least selling** menu item
+  - Helps in taking decisions whether to continue, improve and discontinue the menu items.
+ 
+   
+    
+
