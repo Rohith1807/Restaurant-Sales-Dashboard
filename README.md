@@ -54,7 +54,10 @@ cd Restaurant-Sales-Dashboard
 
 4️⃣ Run the data cleaning script in the `scripts/` folder to understand the data preparation process.
 
- 
-   
+5️⃣ Create a Power BI Report
+-Open Power BI Desktop.
+-Click "Get Data" → "Text/CSV" and import the `merged_sales_menu_customers.csv` file.
+-Perform any transformations (if needed) using Power Query.
+-Use Power BI visuals (bar charts, slicers, KPIs) to create the dashboard.
     
 
