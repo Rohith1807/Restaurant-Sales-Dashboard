@@ -1,0 +1,16 @@
+menu_item_id,item_name,category,price,cost
+1,Garlic Bread,Appetizer,10,6
+2,Bruschetta,Appetizer,15,7
+3,Spring Rolls,Appetizer,7,4
+4,Margherita Pizza,Main Course,15,10
+5,Chicken Burger,Main Course,12,7
+6,Grilled Salmon,Main Course,16,9
+7,Spaghetti Carbonara,Main Course,20,14
+8,Vegetable Stir Fry,Main Course,15,8
+9,Chocolate Cake,Dessert,7,4
+10,Cheesecake,Dessert,8,4
+11,Tiramisu,Dessert,10,6
+12,Mango Smoothie,Beverage,8,4
+13,Apple Smoothie,Beverage,8,4
+14,Banana Smoothie,Beverage,6,3
+15,Chocolate Milkshake,Beverage,10,6
