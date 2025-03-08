@@ -40,10 +40,11 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 - **CSV**- Dataset format
 
 # How to use this project
-1 Clone this repository
-  '''git clone https://github.com/Rohith1807/Restaurant-Sales-Dashboard.git
-  cd Restaurant-Sales-Dashboard'''
-2 
+1 Clone this repository:
+'''
+git clone https://github.com/Rohith1807/Restaurant-Sales-Dashboard.git
+cd Restaurant-Sales-Dashboard
+'''
 
     
 
