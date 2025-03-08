@@ -35,13 +35,9 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 - Overall the dashboard helps in analysing the performance of the restaurant and taking necessary actions for thier future sales, value thier customers and improvements on menu items.
 
 # Technologies used
-- **PowerBI**- Dashboard creation
-- **Python(Pandas,Numpy)**- Data cleaning
+- **PowerBI**- For data visualization and analysis.
+- **Python(Pandas,Numpy)**- Data cleaning, data manipulation and data analysis
 - **CSV**- Dataset format
-
-In a **README.md** file on GitHub, you can format code blocks using triple backticks (```) for a clean and structured look. Here’s how you can format the **"How to Use This Project"** section with proper code blocks and styling:  
-
----
 
 ### **🚀 How to Use This Project?**  
 
@@ -52,25 +48,11 @@ git clone https://github.com/Rohith1807/Restaurant-Sales-Dashboard.git
 cd Restaurant-Sales-Dashboard
 ```
 
-#### **2️⃣ Install Required Dependencies**  
-Before running the script, install necessary Python libraries:  
-```bash
-pip install pandas numpy matplotlib seaborn
-```
+### **2️⃣ Explore the screenshots in the screenshots/ folder to view the dashboard.**
 
-#### **3️⃣ Run the Data Cleaning Script**  
-Execute the Python script to clean the raw dataset:  
-```bash
-python scripts/data_cleaning.py
-```
-This will generate a **cleaned CSV file** ready for use in Power BI.  
+### **3️⃣ Access the raw and cleaned data in the data/ folder.**
 
-#### **4️⃣ Import Cleaned Data into Power BI**  
-- Open **Power BI Desktop**.  
-- Click **"Get Data" → "Text/CSV"** and select the cleaned dataset.  
-- Perform any additional transformations using **Power Query**.  
-- Use Power BI visuals to create **charts, KPIs, and reports**.  
-
+### **4️⃣ Run the data cleaning script in the scripts/ folder to understand the data preparation process.**
 
  
    
