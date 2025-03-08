@@ -60,5 +60,33 @@ cd Restaurant-Sales-Dashboard
 - Click "Get Data" → "Text/CSV" and import the `merged_sales_menu_customers.csv` file.
 - Perform any transformations (if needed) using Power Query.
 - Use Power BI visuals (bar charts, slicers, KPIs) to create the dashboard.
+
+# Data Preparation
+The data used in this dashboard was generated using `Mockaroo`, a random data generator. The raw data was then cleaned and processed using Python to ensure consistency and accuracy.
+
+**Steps Performed During Data Cleaning:**
+- **Merging Data**: Combined `sales`, `menu`, and `customers` tables into a single dataset.
+- **Date Conversion**: Converted the `order_date` column to a datetime format.
+- **Total Price Calculation**: Calculated the `total_price` for each order by multiplying the price and quantity.
+- **Data Validation**: Ensured data consistency (e.g., no negative sales values).
+
+## Files Included:
+**Raw Data**: The original data generated from Mockaroo is available in the `data/` folder:
+- `sales.csv`
+- `menu.csv`
+- `customers.csv`
+
+**Cleaned Data**: The processed and cleaned CSV file `(merged_sales_menu_customers.csv)` is available in the `data/` folder.
+
+**Cleaning Code**: The Python script used for data cleaning is available in the `scripts/` folder.
+## How to Run the Cleaning Code:
+- Install the required Python libraries:
+```bash
+pip install pandas numpy
+```
+- Run the Python script:
+```bash
+python scripts/
+```
     
 
