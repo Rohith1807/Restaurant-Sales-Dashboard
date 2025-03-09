@@ -1,14 +1,15 @@
-# Restaurant-Sales-Dashboard
+# 🍽️Restaurant-Sales-Dashboard 
 It is an **interactive dashboard** created using **PowerBI**. The dashboard analyses the **Sales**, reviews the **Menu performance** and gives insights about its **customers** for a restaurant business. The data is generated through Mockaroo and cleaned using **Python**.
 # Features
-- **Sales analysis**- Visualizes monthly sales trends and provides an overview of total orders, sales and profits
-- **Menu performance**- Throws light on top and least selling items, analyses the profit margins of the menu items and sales based on categories
-- **Customer’s insights**- Gives insights on total customers, Average of order values and customer’s lifetime values. Also highlights its top customers and their spendings.
-# Dataset & Data cleaning
+- **📉Sales analysis**- Visualizes monthly sales trends and provides an overview of total orders, sales and profits
+- **🍔Menu performance**- Throws light on top and least selling items, analyses the profit margins of the menu items and sales based on categories
+- **👤Customer’s insights**- Gives insights on total customers, Average of order values and customer’s lifetime values. Also highlights its top customers and their spendings.
+# 📂Dataset & Data cleaning
 - **Source**- Mockaroo-generated data
 - **Cleaning**- Python(Pandas,Numpy)
 - **Data Files**- <a href=https://github.com/Rohith1807/Restaurant-Sales-Dashboard/tree/main/data>Data Folder</a>
-# Dashboard Insights & Screenshots
+
+# 🔍Dashboard Insights & Screenshots
 - **Sales Analysis**-
 	![sales_analysis](https://github.com/user-attachments/assets/979c64fa-c1ec-4c91-9f1a-acf53cce405a)
   - Added **Dropdown slicer** to select the **order types(dine-in, takeaway, delivery) and payment method(cash, card, online).**
@@ -34,7 +35,7 @@ It is an **interactive dashboard** created using **PowerBI**. The dashboard anal
 
 - Overall the dashboard helps in analysing the performance of the restaurant and taking necessary actions for thier future sales, value thier customers and improvements on menu items.
 
-# Technologies used
+# 💡Technologies used
 - **PowerBI**- For data visualization and analysis.
 - **Python(Pandas,Numpy)**- Data cleaning, data manipulation and data analysis
 - **CSV**- Dataset format
@@ -61,7 +62,7 @@ cd Restaurant-Sales-Dashboard
 - Perform any transformations (if needed) using Power Query.
 - Use Power BI visuals (bar charts, slicers, KPIs) to create the dashboard.
 
-# Data Preparation
+# 📝Data Preparation
 The data used in this dashboard was generated using `Mockaroo`, a random data generator. The raw data was then cleaned and processed using Python to ensure consistency and accuracy.
 
 **Steps Performed During Data Cleaning:**
@@ -90,5 +91,8 @@ python scripts/clean_data.py
 python scripts/total_price
 python scripts/merged_tables
 ```
+
+# ✔️Conclusion
+This **Restaurant Sales Dashboard** project created by combining **Power BI for visualization and Python for data cleaning**, provides actionable insights into sales, menu performance, and customer behavior. Feel free to explore the repository and share your feedback!
     
 
