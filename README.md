@@ -63,7 +63,7 @@ cd Restaurant-Sales-Dashboard
 - Use Power BI visuals (bar charts, slicers, KPIs) to create the dashboard.
 
 # 📝Data Preparation
-The data used in this dashboard was generated using `Mockaroo`, a random data generator. The raw data was then cleaned and processed using Python to ensure consistency and accuracy.
+The data used in this dashboard was generated using `Mockaroo`. The raw data was then cleaned and processed using Python to ensure consistency and accuracy.
 
 **Steps Performed During Data Cleaning:**
 - **Merging Data**: Combined `sales`, `menu`, and `customers` tables into a single dataset.
